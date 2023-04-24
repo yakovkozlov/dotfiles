@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ykozlov@slb.com
+	name = yakov kozlov
